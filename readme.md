@@ -1,6 +1,7 @@
 # myParallax
 Простейший Scroll Parallax плагин для jQuery, призванный научить всех желающих создавать jQuery плагины и параллаксировать на страницах сайтов.
 
+Урок на YouTube: <a target="_blank" href="http://www.youtube.com/watch?v=e2zXsRE0ick">youtube.com/watch?v=e2zXsRE0ick</a>
 
 Уроки по созданию сайтов: <a target="_blank" href="http://webdesign-master.ru">webdesign-master.ru</a>
 
