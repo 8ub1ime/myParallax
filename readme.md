@@ -3,7 +3,7 @@
 
 Урок на YouTube: 
 
-Уроки по созданию сайтов: <a href="http://webdesign-master.ru" target="_blank">http://webdesign-master.ru</a>
+Уроки по созданию сайтов: <a target="_blank" href="http://webdesign-master.ru">webdesign-master.ru</a>
 
 <h3>Использование плагина</h3>
 
